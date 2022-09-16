@@ -3,6 +3,6 @@
 
 Maintained by [AndrewJCave] (https://github.com/AndrewJCave)
 
-This is the Git repo of the Docker Image - [todo]
+This is the Git repo of the Docker Image - (https://hub.docker.com/r/therealcavey01/postgres-db-seeded)
 
 This image is based on [`postgres:latest`] (https://hub.docker.com/_/postgres/tags) and is seeded with data from the SQL load file from postgresql.org (https://www.postgresql.org/ftp/projects/pgFoundry/dbsamples/world/dbsamples-0.1/)
